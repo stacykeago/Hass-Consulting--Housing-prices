@@ -1,7 +1,7 @@
 ## Independent-project-week-7.Machine-learning
 During this week’s Independent project, you will get to test your understanding of the following learning outcomes.  
-*supervised learning algorithms such as regression, decision trees, KNN, SVM, naive Bayes, random forests to solving business problems. 
-*The benefits, limitations, and requirements of various supervised learning algorithms. 
+* supervised learning algorithms such as regression, decision trees, KNN, SVM, naive Bayes, random forests to solving business problems. 
+* The benefits, limitations, and requirements of various supervised learning algorithms. 
 #### Assessment Overview:  
 As a Data Scientist, you work for Hass Consulting Company which is a real estate leader with over 25 years of experience. You have been tasked to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. 
 Create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.  
